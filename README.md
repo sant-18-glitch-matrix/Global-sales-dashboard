@@ -7,4 +7,4 @@
 ## 🛠️ Tools & Skills Demonstrated - Excel data cleaning - Pivot tables & charts - Dashboard design - Business insights from sales data 
 ## 🔮 Future Improvements - Migrate dashboard to Power BI for advanced interactivity. 
 ## 👤 Author L Santhosh
-[LinkedIn Profile https://www.linkedin.com/in/santhosh-lokesh-1887b4253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [GitHub Profile](https://github.com/sant-18-glitch-matrix/Global-sales-dashboard/edit/main/README.md)
+[LinkedIn Profile https://www.linkedin.com/in/santhosh-lokesh-1887b4253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [GitHub Profile] (https://github.com/sant-18-glitch-matrix)
